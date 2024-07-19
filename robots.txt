@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orksmere.github.io/sitemap
+Sitemap: https://orksmere.github.io/app/sitemap
+Sitemap: https://orksmere.github.io/assets/sitemap
+Sitemap: https://orksmere.github.io/css/sitemap
+Sitemap: https://orksmere.github.io/includes/sitemap
+Sitemap: https://orksmere.github.io/item/sitemap
+Sitemap: https://orksmere.github.io/src/sitemap
